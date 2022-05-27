@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Lakshay Verma
+- 👀 I’m interested in Software Developmet.
+- 🌱 I’m currently learning React/Angular.
+- 💞️ I’m looking to collaborate on Backend Development.
+- 📫 How to reach me via Linkedin.
