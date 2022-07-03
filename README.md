@@ -2,7 +2,7 @@
 <h2 align='center'> I'm Lakshay Verma</h2>
 
 
-# 👨🏻‍💻 [Lakshay Verma] [@lakshay-verma7](https://www.linkedin.com/in/lakshay-verma7/)
+# 👨🏻‍💻 [@lakshay-verma7](https://www.linkedin.com/in/lakshay-verma7/)
 
 
 - 🔭 I’m currently working at Qualcomm as a Software Engineer with 2+ years of experience.
